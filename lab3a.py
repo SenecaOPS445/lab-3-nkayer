@@ -1,19 +1,13 @@
 #!/usr/bin/env python3
 
-# return_text_value() function
-
-# Author ID: [seneca_id]
 
 def return_text_value():
     return "Good Morning Terry"
 
-
-# return_number_value() function
-
 def return_number_value():
-    return 10 + 5  # Example: Adding two integers
+    return 10 + 5  
 
-# Main Program
+
 
 if __name__ == '__main__':
     print('python code')
